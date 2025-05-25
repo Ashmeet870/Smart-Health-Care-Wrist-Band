@@ -21,7 +21,6 @@ This project is an IoT-enabled real-time health monitoring system using ESP32. I
 - ECG module (Analog output)
 - SH1106 OLED Display (128x64)
 - Buzzer
-- Capacitive Touch Input (T0)
 - Battery connection for monitoring (optional)
 - Connecting wires, Breadboard
 
@@ -36,4 +35,4 @@ This project is an IoT-enabled real-time health monitoring system using ESP32. I
 
 ## 📡 API Configuration
 
-Sensor readings are posted to the following API endpoint:
+Sensor readings are posted to the following API endpoint: vercel.app
